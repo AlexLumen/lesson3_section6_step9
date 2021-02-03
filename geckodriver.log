@@ -1,0 +1,24 @@
+1612339811771	geckodriver	INFO	Listening on 127.0.0.1:65033
+1612339814896	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilekHDwWH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612339819758	Marionette	INFO	Listening on port 65042
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612339820133	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612339820147	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: http://selenium1py.pythonanywhere.com/es/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1612339826883	Marionette	INFO	Stopped listening on port 65042
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612340135023	geckodriver	INFO	Listening on 127.0.0.1:65261
+1612340138066	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofiletq4L4O"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612340141014	Marionette	INFO	Listening on port 65271
+1612340141217	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612340141234	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: http://selenium1py.pythonanywhere.com/es/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1612340148277	Marionette	INFO	Stopped listening on port 65271
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
